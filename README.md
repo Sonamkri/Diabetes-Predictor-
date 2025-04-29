@@ -37,7 +37,7 @@ It uses machine learning techniques trained on a dataset (e.g., Pima Indians Dia
 - Confusion Matrix, ROC Curve, and other evaluation metrics provided
 
 # contributors:-
-my name- sonam kumari
-collaborator - Bhavishya chouhan
+sonam kumari
+Bhavishya chouhan
 
 
